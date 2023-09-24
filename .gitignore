@@ -1,0 +1,7 @@
+.txt
+/secrets.txt
+/*.txt/
+/.txt/
+secrets.txt test.txt test2.txt test3.txt
+/LICENSE.txt
+test.txt
