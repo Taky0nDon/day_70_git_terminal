@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 my_env.txt
 secrets.txt
+=======
+.txt
+/secrets.txt
+/*.txt/
+/.txt/
+secrets.txt test.txt test2.txt test3.txt
+/LICENSE.txt
+test.txt
+>>>>>>> alien-plot
